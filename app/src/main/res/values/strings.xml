@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Fast Papers</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSICS</string>
+    <string name="backdrop_subtitle">This season top 20 music</string>
+    <string name="title_activity_home">Fast Papers</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <string name="downloads">Downloads</string>
+
+    <string name="gettingData">Getting Data</string>
+    <string name="pleaseWait">Please Wait</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="download_Pdf">Download pdf</string>
+    <string name="download_Doc">Download Doc</string>
+    <string name="download_zip">Download Zip</string>
+    <string name="download_video">Download Video</string>
+    <string name="download_mp3">Download MP3</string>
+    <string name="openFolder">Open Downloaded Folder</string>
+    <string name="downloadStarted">Download Started…</string>
+    <string name="downloadCompleted">Download Completed…</string>
+    <string name="downloadFailed">Download Failed…</string>
+    <string name="downloadAgain">Download Again</string>
+
+    <string name="new_folder">New Folder</string>
+    <string name="label_save">Save</string>
+    <string name="new_file">New File</string>
+    <string name="encrypt_the_content">Encrypt the content</string>
+    <string name="label_content">Content</string>
+    <string name="label_name">Name</string>
+    <string name="label_decrypt">Decrypt</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_delete">Delete</string>
+    <string name="new_name">New name</string>
+    <string name="current_name">Current name</string>
+    <string name="rename">Rename</string>
+    <string name="drop_here">DROP To Download</string>
+    <string name="decline">DECLINE</string>
+    <string name="folder_options">Folder options</string>
+    <string name="file_options">File options</string>
+    <string name="moving_file">Moving: %1$s</string>
+    <string name="copy_file">Copying: %1$s</string>
+    <string name="switch_to_internal">Switch to internal</string>
+    <string name="order_by">Order by ...</string>
+    <string name="filter">Filter</string>
+
+    <string name="spinner_title">Select Paper</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- AdMob ad unit IDs -->
+    <!--<string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_home_footer">ca-app-pub-2098305622136384/6928040821</string>
+
+    <string name="facebook_app_id">129068717727214</string>
+
+</resources>
